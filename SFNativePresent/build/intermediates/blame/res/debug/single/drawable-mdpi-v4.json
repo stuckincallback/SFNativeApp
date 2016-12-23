@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\sf__icon.png",
+        "source": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\exploded-aar\\SFNativePresent.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\drawable-mdpi-v4\\sf__icon.png"
+    },
+    {
+        "merged": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\sf__edit_icon.png",
+        "source": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\exploded-aar\\SFNativePresent.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\drawable-mdpi-v4\\sf__edit_icon.png"
+    },
+    {
+        "merged": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\sf__highlight_glare.png",
+        "source": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\exploded-aar\\SFNativePresent.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\drawable-mdpi-v4\\sf__highlight_glare.png"
+    },
+    {
+        "merged": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\sf__ic_refresh_sync_anim0.png",
+        "source": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\exploded-aar\\SFNativePresent.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\drawable-mdpi-v4\\sf__ic_refresh_sync_anim0.png"
+    }
+]

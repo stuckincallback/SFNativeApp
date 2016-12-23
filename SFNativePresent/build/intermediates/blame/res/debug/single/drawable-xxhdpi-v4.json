@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_fp_40px.png",
+        "source": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\exploded-aar\\SFNativePresent.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\drawable-xxhdpi-v4\\ic_fp_40px.png"
+    },
+    {
+        "merged": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sf__icon.png",
+        "source": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\exploded-aar\\SFNativePresent.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\drawable-xxhdpi-v4\\sf__icon.png"
+    }
+]

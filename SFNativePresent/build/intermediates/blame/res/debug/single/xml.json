@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\res\\merged\\debug\\xml\\app_restrictions.xml",
+        "source": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\exploded-aar\\SFNativePresent.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\xml\\app_restrictions.xml"
+    },
+    {
+        "merged": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\res\\merged\\debug\\xml\\authenticator.xml",
+        "source": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\exploded-aar\\SFNativePresent.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\xml\\authenticator.xml"
+    },
+    {
+        "merged": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\res\\merged\\debug\\xml\\servers.xml",
+        "source": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\exploded-aar\\SFNativePresent.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\xml\\servers.xml"
+    }
+]

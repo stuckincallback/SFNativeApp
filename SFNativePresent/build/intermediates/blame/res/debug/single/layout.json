@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\res\\merged\\debug\\layout\\sf__fingerprint_dialog.xml",
+        "source": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\exploded-aar\\SFNativePresent.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\layout\\sf__fingerprint_dialog.xml"
+    },
+    {
+        "merged": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\res\\merged\\debug\\layout\\header.xml",
+        "source": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\res\\layout\\header.xml"
+    },
+    {
+        "merged": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\res\\merged\\debug\\layout\\sf__custom_server_url.xml",
+        "source": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\exploded-aar\\SFNativePresent.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\layout\\sf__custom_server_url.xml"
+    },
+    {
+        "merged": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\res\\merged\\debug\\layout\\sf__passcode.xml",
+        "source": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\exploded-aar\\SFNativePresent.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\layout\\sf__passcode.xml"
+    },
+    {
+        "merged": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\res\\merged\\debug\\layout\\sf__manage_space.xml",
+        "source": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\exploded-aar\\SFNativePresent.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\layout\\sf__manage_space.xml"
+    },
+    {
+        "merged": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\res\\merged\\debug\\layout\\sf__server_picker.xml",
+        "source": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\exploded-aar\\SFNativePresent.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\layout\\sf__server_picker.xml"
+    },
+    {
+        "merged": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\res\\merged\\debug\\layout\\webviewlayout.xml",
+        "source": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\res\\layout\\webviewlayout.xml"
+    },
+    {
+        "merged": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\res\\merged\\debug\\layout\\sf__server_picker_list.xml",
+        "source": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\exploded-aar\\SFNativePresent.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\layout\\sf__server_picker_list.xml"
+    },
+    {
+        "merged": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\res\\merged\\debug\\layout\\sf__login.xml",
+        "source": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\exploded-aar\\SFNativePresent.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\layout\\sf__login.xml"
+    },
+    {
+        "merged": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\res\\merged\\debug\\layout\\sf__account_switcher.xml",
+        "source": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\exploded-aar\\SFNativePresent.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\layout\\sf__account_switcher.xml"
+    }
+]

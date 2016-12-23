@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\res\\merged\\debug\\drawable\\sf__progress_spinner.xml",
+        "source": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\exploded-aar\\SFNativePresent.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\drawable\\sf__progress_spinner.xml"
+    },
+    {
+        "merged": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\res\\merged\\debug\\drawable\\sf__toolbar_background.xml",
+        "source": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\exploded-aar\\SFNativePresent.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\drawable\\sf__toolbar_background.xml"
+    },
+    {
+        "merged": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\res\\merged\\debug\\drawable\\sf__header_bg.png",
+        "source": "D:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\exploded-aar\\SFNativePresent.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\drawable\\sf__header_bg.png"
+    }
+]

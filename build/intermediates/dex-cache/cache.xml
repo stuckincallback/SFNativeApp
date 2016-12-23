@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\govinda_jajoo\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_869f1e2c98da888cb241b762659903c7f3b5495c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3c23d9b1f571efb6a6fa0a4d4b6e23bd7442ebc1">
+        <dex dex="D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_427ee08de886160a419cee383c684fa1d5680dba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\guava\guava\18.0\guava-18.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\transforms\dex\debug\folders\1000\10\guava-18.0_23ae9d619c9ad952ac11ce7bff78df802e3e98c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7a01d34328e136f0a4ef8c315f0c62754336ab24">
+        <dex dex="D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2fce30bf035056aadc42bccb7e4f5bf3b108ab41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\govinda_jajoo\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_08da8f20fc56509c58bfdc00e402369205f284c8\classes.dex" />
+    </item>
+
+</items>

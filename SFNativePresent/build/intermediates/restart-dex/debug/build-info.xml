@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="21"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="177475231489207"
+    token="8755407705886931551"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="149" />
+    <task
+        name="instant-run-dex"
+        duration="277" />
+    <task
+        name="instant-run-transform"
+        duration="32" />
+    <task
+        name="verifier"
+        duration="16" />
+
+    <artifact
+        location="D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="177065135820064"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\outputs\apk\SFNativePresent-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="177475231489207"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>
