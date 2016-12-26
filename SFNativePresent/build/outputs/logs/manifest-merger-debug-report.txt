@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\AndroidManifest.xml:3:1-37:12
+ADDED from D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\AndroidManifest.xml:3:1-41:12
 	package
 		ADDED from D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\AndroidManifest.xml:4:2-28
 	android:versionName
@@ -15,15 +15,26 @@ ADDED from D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\AndroidManife
 		ADDED from D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\AndroidManifest.xml:3:11-69
 	android:installLocation
 		ADDED from D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\AndroidManifest.xml:7:2-40
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\AndroidManifest.xml:8:2-76
+	android:name
+		ADDED from D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\AndroidManifest.xml:8:19-73
 application
-ADDED from D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\AndroidManifest.xml:9:2-23:16
+ADDED from D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\AndroidManifest.xml:9:2-26:16
 MERGED from [SFNativePresent.forcedroid.libs:SalesforceSDK:unspecified] D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\exploded-aar\SFNativePresent.forcedroid.libs\SalesforceSDK\unspecified\AndroidManifest.xml:23:5-103:19
+MERGED from [com.google.android.gms:play-services-location:10.0.1] D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\AndroidManifest.xml:24:5-19
+MERGED from [com.github.delight-im:Android-AdvancedWebView:v3.0.0] D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\exploded-aar\com.github.delight-im\Android-AdvancedWebView\v3.0.0\AndroidManifest.xml:9:5-20
 	android:label
 		ADDED from D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\AndroidManifest.xml:10:6-38
 	android:manageSpaceActivity
 		ADDED from D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\AndroidManifest.xml:12:3-81
 	android:icon
-		ADDED from D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\AndroidManifest.xml:9:15-48
+		ADDED from D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\AndroidManifest.xml:9:15-51
 	android:name
 		ADDED from D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\AndroidManifest.xml:11:3-37
 activity#com.lakshya.hack.MainActivity
@@ -44,25 +55,39 @@ category#android.intent.category.LAUNCHER
 ADDED from D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\AndroidManifest.xml:20:5-65
 	android:name
 		ADDED from D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\AndroidManifest.xml:20:15-62
+service#com.lakshya.hack.GeofenceTransitionsIntentService
+ADDED from D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\AndroidManifest.xml:25:3-63
+	android:name
+		ADDED from D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\AndroidManifest.xml:25:12-60
 uses-sdk
-ADDED from D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\AndroidManifest.xml:25:5-26:41
+ADDED from D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\AndroidManifest.xml:28:5-29:41
 MERGED from [SFNativePresent.forcedroid.libs:SalesforceSDK:unspecified] D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\exploded-aar\SFNativePresent.forcedroid.libs\SalesforceSDK\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-location:10.0.1] D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:24.0.0] D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\AndroidManifest.xml:23:5-42
+MERGED from [com.github.delight-im:Android-AdvancedWebView:v3.0.0] D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\exploded-aar\com.github.delight-im\Android-AdvancedWebView\v3.0.0\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.0.0] D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
-		ADDED from D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\AndroidManifest.xml:26:9-38
+		ADDED from D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\AndroidManifest.xml:29:9-38
 	android:minSdkVersion
-		ADDED from D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\AndroidManifest.xml:25:15-41
+		ADDED from D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\AndroidManifest.xml:28:15-41
 permission#com.lakshya.hack.C2D_MESSAGE
-ADDED from D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\AndroidManifest.xml:33:5-34:47
+ADDED from D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\AndroidManifest.xml:36:5-37:47
 	android:protectionLevel
-		ADDED from D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\AndroidManifest.xml:34:9-44
+		ADDED from D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\AndroidManifest.xml:37:9-44
 	android:name
-		ADDED from D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\AndroidManifest.xml:33:17-60
+		ADDED from D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\AndroidManifest.xml:36:17-60
 uses-permission#com.lakshya.hack.C2D_MESSAGE
-ADDED from D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\AndroidManifest.xml:36:5-68
+ADDED from D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\AndroidManifest.xml:40:2-65
 	android:name
-		ADDED from D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\AndroidManifest.xml:36:22-65
+		ADDED from D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\AndroidManifest.xml:40:19-62
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [SFNativePresent.forcedroid.libs:SalesforceSDK:unspecified] D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\exploded-aar\SFNativePresent.forcedroid.libs\SalesforceSDK\unspecified\AndroidManifest.xml:11:5-79
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\AndroidManifest.xml:19:5-78
 	android:name
 		ADDED from [SFNativePresent.forcedroid.libs:SalesforceSDK:unspecified] D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\exploded-aar\SFNativePresent.forcedroid.libs\SalesforceSDK\unspecified\AndroidManifest.xml:11:22-76
 uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
@@ -75,6 +100,7 @@ ADDED from [SFNativePresent.forcedroid.libs:SalesforceSDK:unspecified] D:\SalesF
 		ADDED from [SFNativePresent.forcedroid.libs:SalesforceSDK:unspecified] D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\exploded-aar\SFNativePresent.forcedroid.libs\SalesforceSDK\unspecified\AndroidManifest.xml:13:22-68
 uses-permission#android.permission.INTERNET
 ADDED from [SFNativePresent.forcedroid.libs:SalesforceSDK:unspecified] D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\exploded-aar\SFNativePresent.forcedroid.libs\SalesforceSDK\unspecified\AndroidManifest.xml:14:5-67
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\AndroidManifest.xml:20:5-66
 	android:name
 		ADDED from [SFNativePresent.forcedroid.libs:SalesforceSDK:unspecified] D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\exploded-aar\SFNativePresent.forcedroid.libs\SalesforceSDK\unspecified\AndroidManifest.xml:14:22-64
 uses-permission#android.permission.MANAGE_ACCOUNTS
@@ -211,3 +237,23 @@ ADDED from [SFNativePresent.forcedroid.libs:SalesforceSDK:unspecified] D:\SalesF
 		ADDED from [SFNativePresent.forcedroid.libs:SalesforceSDK:unspecified] D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\exploded-aar\SFNativePresent.forcedroid.libs\SalesforceSDK\unspecified\AndroidManifest.xml:102:13-37
 	android:name
 		ADDED from [SFNativePresent.forcedroid.libs:SalesforceSDK:unspecified] D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\exploded-aar\SFNativePresent.forcedroid.libs\SalesforceSDK\unspecified\AndroidManifest.xml:101:13-70
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\AndroidManifest.xml:20:20-65
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.0.1] D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\AndroidManifest.xml:21:52-75

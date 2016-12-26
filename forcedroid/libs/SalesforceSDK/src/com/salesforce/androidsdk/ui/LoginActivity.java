@@ -192,17 +192,6 @@ public class LoginActivity extends AccountAuthenticatorActivity
 		return false;
 	}
 
-    /**************************************************************************************************
-     *
-     * Actions (Changer server / Clear cookies etc) are available through a menu
-     *
-     **************************************************************************************************/
-
-    @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-        getMenuInflater().inflate(salesforceR.menuLogin(), menu);
-        return super.onCreateOptionsMenu(menu);
-    }
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
@@ -229,8 +218,8 @@ public class LoginActivity extends AccountAuthenticatorActivity
 
 	@Override
 	public void loadingLoginPage(String loginUrl) {
-		final ActionBar ab = getActionBar();
-		ab.setTitle(loginUrl);
+		//final ActionBar ab = getActionBar();
+		//ab.setTitle(loginUrl);
 	}
 
 	@Override

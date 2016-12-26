@@ -1,7 +1,4 @@
-#Fri Dec 23 17:55:57 IST 2016
-base.0=D\:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2fce30bf035056aadc42bccb7e4f5bf3b108ab41
-renamed.1=classes2.dex
+#Mon Dec 26 10:12:16 IST 2016
+base.0=D\:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
-file.1=D\:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_427ee08de886160a419cee383c684fa1d5680dba\\classes.dex
-base.1=D\:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_427ee08de886160a419cee383c684fa1d5680dba
-file.0=D\:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2fce30bf035056aadc42bccb7e4f5bf3b108ab41\\classes.dex
+file.0=D\:\\SalesForceMobileApps\\SFNativePresent\\SFNativePresent\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

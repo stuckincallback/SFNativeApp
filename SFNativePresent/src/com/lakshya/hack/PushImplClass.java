@@ -7,8 +7,9 @@ import android.media.RingtoneManager;
 import android.os.Bundle;
 import android.util.Log;
 
-import com.salesforce.androidsdk.push.PushNotificationInterface;
 
+
+import com.salesforce.androidsdk.push.PushNotificationInterface;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -20,52 +21,57 @@ import static android.content.Context.NOTIFICATION_SERVICE;
  */
 
 public class PushImplClass implements PushNotificationInterface {
+
     private Context context;
     public PushImplClass(Context context){
-        this.context = context;
+       this.context = context;
     }
+
+
     @Override
     public void onPushMessageReceived(Bundle message) {
-        String DoctorName = message.get("Doctor").toString();
-        String Date = message.get("Date").toString();
-        String Reason = message.get("Reason").toString();
+        Log.d("Dataaaaa",message.toString());
+        //String DoctorName = message.get("Doctor").toString();
+        //String Date = getFormattedDate(message.get("Date").toString());
+        //String Reason = message.get("Reason").toString();
 
+        String notificationText = message.get("Message").toString();
+
+        Notification.Builder builder = new Notification.Builder(context)
+                // Set Icon
+                .setSmallIcon(R.drawable.ic_launcher)
+                .setTicker("Appointment Has Been Booked")
+                .setContentTitle("Appointment Booked")
+                .setStyle(new Notification.BigTextStyle().bigText(notificationText))
+                .setContentText(notificationText)
+                .setSound(RingtoneManager.getDefaultUri(RingtoneManager.TYPE_NOTIFICATION))
+                .setPriority(Notification.PRIORITY_MAX)
+                .setAutoCancel(true);
+
+        NotificationManager notificationmanager = (NotificationManager) context.getSystemService(NOTIFICATION_SERVICE);
+        notificationmanager.notify(0, builder.build());
+
+
+
+
+
+    }
+
+    public String getFormattedDate(String date){
         Date d=null;
-
+        String returnDate = null;
         SimpleDateFormat sdf= new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");
         SimpleDateFormat sdf1= new SimpleDateFormat("dd MMM hh:mm a");
         try {
-            d= sdf.parse(Date);
-            Date =sdf1.format(d);
+            d= sdf.parse(date);
+            returnDate  =sdf1.format(d);
         } catch (ParseException e) {
 
             e.printStackTrace();
         }
-        String notificationText = "You appointment with \n"+DoctorName+" is scheduled at \n"+Date;
-
-        Notification.Builder builder = new Notification.Builder(context)
-                // Set Icon
-                .setSmallIcon(R.drawable.sf__icon)
-                // Set Ticker Message
-                //  .setTicker(getString(R.string.notificationticker))
-                // Set Title
-                .setContentTitle("Appointment Booked")
-                .setStyle(new Notification.BigTextStyle().bigText(notificationText))
-                // Set Text
-                .setContentText(notificationText)
-                .setSound(RingtoneManager.getDefaultUri(RingtoneManager.TYPE_NOTIFICATION))
-
-                // Add an Action Button below Notification
-                //.addAction(R.drawable.ic_launcher, "Action Button", pIntent)
-                // Set PendingIntent into Notification
-                // .setContentIntent(pIntent)
-                // Dismiss Notification
-                .setAutoCancel(true);
-
-        // Create Notification Manager
-        NotificationManager notificationmanager = (NotificationManager) context.getSystemService(NOTIFICATION_SERVICE);
-        // Build Notification with Notification Manager
-        notificationmanager.notify(0, builder.build());
-        Log.d("Dataaaaa",message.toString());
+        return returnDate;
     }
+
+
+
 }

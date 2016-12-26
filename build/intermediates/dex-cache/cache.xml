@@ -2,49 +2,130 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
+        is-multidex="false"
+        jar="D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-10.0.1_82a0a7c79d746e9d4760ae40cd9fe91385ad53a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\govinda_jajoo\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
-        <dex dex="D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_869f1e2c98da888cb241b762659903c7f3b5495c\classes.dex" />
+        <dex dex="D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\pre-dexed\debug\okhttp-3.2.0_869f1e2c98da888cb241b762659903c7f3b5495c.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="3c23d9b1f571efb6a6fa0a4d4b6e23bd7442ebc1">
-        <dex dex="D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_427ee08de886160a419cee383c684fa1d5680dba\classes.dex" />
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_d6267d108258454c1b7083440e9338e477d733ce.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\guava\guava\18.0\guava-18.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="cce0823396aa693798f8882e64213b1772032b09">
-        <dex dex="D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\transforms\dex\debug\folders\1000\10\guava-18.0_23ae9d619c9ad952ac11ce7bff78df802e3e98c2\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="7a01d34328e136f0a4ef8c315f0c62754336ab24">
-        <dex dex="D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2fce30bf035056aadc42bccb7e4f5bf3b108ab41\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="C:\Users\govinda_jajoo\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="98476622f10715998eacf9240d6b479f12c66143">
-        <dex dex="D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_08da8f20fc56509c58bfdc00e402369205f284c8\classes.dex" />
+        <dex dex="D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\pre-dexed\debug\okio-1.6.0_08da8f20fc56509c58bfdc00e402369205f284c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-10.0.1_c8266e350015c15b36073777cec41e2a3d49cb00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\guava\guava\18.0\guava-18.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\pre-dexed\debug\guava-18.0_23ae9d619c9ad952ac11ce7bff78df802e3e98c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\exploded-aar\com.github.delight-im\Android-AdvancedWebView\v3.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="18e4d2146490b76b3282f1949ed6ffd052a0fc23">
+        <dex dex="D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\pre-dexed\debug\com.github.delight-im-Android-AdvancedWebView-v3.0.0_ce4044a717c4d2eb80cb428d251952fa660f88e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_8aec1ee2e17c43792ceadb25b036aa8b6937de01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_7483a4e31648f9fb6641e189a0623cc655293f8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\lib\otto-1.3.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf615176cd1177edf71d3c9605f8dc148fede6be">
+        <dex dex="D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\pre-dexed\debug\otto-1.3.8_d22e666e746867b28250a953cf4ca4eb1975908b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_b192b604cdeb537628cff2ea27412eebae8c6b22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_e7b4d9b6ceddabc204cde1046b245cf0b02b2963.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\exploded-aar\SFNativePresent.forcedroid.libs\SalesforceSDK\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8042a5599c90bfa8e5f416cecec1006d17b27f88">
+        <dex dex="D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\pre-dexed\debug\SFNativePresent.forcedroid.libs-SalesforceSDK-unspecified_12e1d5f87720d6b4e6777cda10158a1555ad2036.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="D:\SalesForceMobileApps\SFNativePresent\SFNativePresent\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.0.1_d53c77db0d6e5ce4553eeb782887f1eb900cd4ca.jar" />
     </item>
 
 </items>
